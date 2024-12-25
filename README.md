@@ -21,7 +21,7 @@ The program tackles a variety of tasks related to TSV files, a common format for
    - Outputs formatted reports aligned for readability and professionalism.
 
 ## Documentation
-For detailed description about the tasks, please refer to `ass1 (1).pdf`. Furthermore, there are some sample testcases (like `test0.txt`) and outputs (like `test0-out.txt`) for testing functions. 
+For detailed description about the tasks, please refer to `ass1 (1).pdf`. Furthermore, there are some sample testcases (like `test0.tsv`) and outputs (like `test0-out.txt`) for testing functions. 
 
 
 ## Applications
